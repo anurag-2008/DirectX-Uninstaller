@@ -17,7 +17,7 @@ Well Sometimes, as you know Windows has so much glitches that may result in your
 - Modified and Tested By [Me](https://github.com/anurag-2008)
 
 ## 🚀 About Me
-I’m not a developer, but I had this idea and created this tool with the help of [Chat-GPT.](https:\\chatgpt.com)
+I’m not a developer, but I had this idea and created this tool with the help of [Chat-GPT](https:\\chatgpt.com).
 ## Feedback
 
 Thank you for using DirectX Uninstaller! Feel free to reach out if you encounter any bugs.
