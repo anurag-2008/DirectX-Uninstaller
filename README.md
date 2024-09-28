@@ -2,7 +2,7 @@
 DirectX Uninstaller is a tool with GUI for Windows that allows you to fully uninstall DirectX from your PC.
 ## Features
 
-- **Compatibility Check**: This program is compatible with both Windows x86 and x64 architectures.
+- **Compatibility**: This program is compatible for both Windows x86 and x64 architectures.
 - **Backup Option**: You can choose to back up DirectX files, which will be saved in your Desktop folder for easy recovery (recommended).
 - **One-Click Uninstallation**: Easily uninstall DirectX with just a single click, simplifying the uninstallation process.
 - **Live Console**: Monitor the uninstallation process in real-time with an integrated console display, providing status updates.
