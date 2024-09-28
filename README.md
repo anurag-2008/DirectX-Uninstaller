@@ -22,7 +22,7 @@ It's simple, Just check or uncheck the 'Keep Backup' option as you prefer. If ch
 - Modified and Tested By [Me](https://github.com/anurag-2008)
 
 ## 🚀 About Me
-I’m not a developer, but I had this idea and created this tool with the help of [Chat-GPT](https:\\chatgpt.com).
+I’m not a developer, but I just had this idea so I created this tool with the help of [Chat-GPT](https:\\chatgpt.com).
 ## Feedback
 
 Thanks for using DirectX Uninstaller! Feel free to reach out if you encounter any bugs.
